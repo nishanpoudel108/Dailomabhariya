@@ -1,0 +1,16 @@
+{
+  "db": {
+    "host": "sql101.infinityfree.com",
+    "name": "if0_42323375_daailo",
+    "user": "if0_42323375",
+    "pass": "iO5zJqg65OwSMp"
+  },
+  "jwt_secret": "daailoma_bhariya_production_secure_jwt_secret_key_2026",
+  "app": {
+    "name": "दैलोमा भरिया",
+    "currency": "NPR",
+    "delivery_charge": 150.00,
+    "min_order": 500.00,
+    "tax_rate": 0.13
+  }
+}
