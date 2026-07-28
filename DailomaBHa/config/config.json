@@ -1,11 +1,11 @@
 {
   "db": {
-    "host": "sql101.infinityfree.com",
-    "name": "if0_42323375_daailo",
-    "user": "if0_42323375",
-    "pass": "iO5zJqg65OwSMp"
+    "host": "localhost",
+    "name": "name",
+    "user": "user",
+    "pass": "pass"
   },
-  "jwt_secret": "daailoma_bhariya_production_secure_jwt_secret_key_2026",
+  "jwt_secret": "...........",
   "app": {
     "name": "दैलोमा भरिया",
     "currency": "NPR",
