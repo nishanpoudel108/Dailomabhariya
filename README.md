@@ -91,7 +91,7 @@ DailomaBhariya/
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/DailomaBhariya.git
+git clone https://github.com/nishanpoudel108/DailomaBhariya.git
 ```
 
 2. Move the project to your web server directory.
